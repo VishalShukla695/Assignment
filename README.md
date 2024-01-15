@@ -1,7 +1,4 @@
 # Assignment
-Certainly! Here's a simple README file for your application:
-
----
 
 # Assignment Management System
 
@@ -91,15 +88,6 @@ To run the tests, use the following command:
 ```bash
 pytest
 ```
-
-## Contributing
-
-Feel free to contribute by opening issues or submitting pull requests. Follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ---
 
 Replace placeholders like `yourusername` with your actual GitHub username, and update the `LICENSE.md` file accordingly. Additionally, if you have specific guidelines for contributing, create a `CONTRIBUTING.md` file and link it in the README.
